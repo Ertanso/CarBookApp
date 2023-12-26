@@ -1,0 +1,11 @@
+C:\Users\ertan\OneDrive\Masaüstü\UdemyCarBook\Core\UdemyCarBook.Domain\bin\Debug\net8.0\UdemyCarBook.Domain.deps.json
+C:\Users\ertan\OneDrive\Masaüstü\UdemyCarBook\Core\UdemyCarBook.Domain\bin\Debug\net8.0\UdemyCarBook.Domain.dll
+C:\Users\ertan\OneDrive\Masaüstü\UdemyCarBook\Core\UdemyCarBook.Domain\bin\Debug\net8.0\UdemyCarBook.Domain.pdb
+C:\Users\ertan\OneDrive\Masaüstü\UdemyCarBook\Core\UdemyCarBook.Domain\obj\Debug\net8.0\UdemyCarBook.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ertan\OneDrive\Masaüstü\UdemyCarBook\Core\UdemyCarBook.Domain\obj\Debug\net8.0\UdemyCarBook.Domain.AssemblyInfoInputs.cache
+C:\Users\ertan\OneDrive\Masaüstü\UdemyCarBook\Core\UdemyCarBook.Domain\obj\Debug\net8.0\UdemyCarBook.Domain.AssemblyInfo.cs
+C:\Users\ertan\OneDrive\Masaüstü\UdemyCarBook\Core\UdemyCarBook.Domain\obj\Debug\net8.0\UdemyCarBook.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ertan\OneDrive\Masaüstü\UdemyCarBook\Core\UdemyCarBook.Domain\obj\Debug\net8.0\UdemyCarBook.Domain.dll
+C:\Users\ertan\OneDrive\Masaüstü\UdemyCarBook\Core\UdemyCarBook.Domain\obj\Debug\net8.0\refint\UdemyCarBook.Domain.dll
+C:\Users\ertan\OneDrive\Masaüstü\UdemyCarBook\Core\UdemyCarBook.Domain\obj\Debug\net8.0\UdemyCarBook.Domain.pdb
+C:\Users\ertan\OneDrive\Masaüstü\UdemyCarBook\Core\UdemyCarBook.Domain\obj\Debug\net8.0\ref\UdemyCarBook.Domain.dll
