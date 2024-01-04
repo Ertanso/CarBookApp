@@ -15,3 +15,6 @@ C:\Users\ertan\OneDrive\Masaüstü\UdemyCarBook\Infrastructure\UdemyCarBook.Pers
 C:\Users\ertan\OneDrive\Masaüstü\UdemyCarBook\Infrastructure\UdemyCarBook.Persistence\obj\Debug\net8.0\UdemyCarBook.Persistence.pdb
 C:\Users\ertan\OneDrive\Masaüstü\UdemyCarBook\Infrastructure\UdemyCarBook.Persistence\obj\Debug\net8.0\UdemyCarBook.Persistence.genruntimeconfig.cache
 C:\Users\ertan\OneDrive\Masaüstü\UdemyCarBook\Infrastructure\UdemyCarBook.Persistence\obj\Debug\net8.0\ref\UdemyCarBook.Persistence.dll
+C:\Users\ertan\OneDrive\Masaüstü\UdemyCarBook\Infrastructure\UdemyCarBook.Persistence\bin\Debug\net8.0\UdemyCarBook.Application.dll
+C:\Users\ertan\OneDrive\Masaüstü\UdemyCarBook\Infrastructure\UdemyCarBook.Persistence\bin\Debug\net8.0\UdemyCarBook.Application.pdb
+C:\Users\ertan\OneDrive\Masaüstü\UdemyCarBook\Infrastructure\UdemyCarBook.Persistence\obj\Debug\net8.0\UdemyCarBook.Persistence.sourcelink.json

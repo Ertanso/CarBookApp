@@ -138,3 +138,6 @@ C:\Users\ertan\OneDrive\Masaüstü\UdemyCarBook\Presentation\UdemyCarBook.WebApi
 C:\Users\ertan\OneDrive\Masaüstü\UdemyCarBook\Presentation\UdemyCarBook.WebApi\obj\Debug\net8.0\UdemyCarBook.WebApi.pdb
 C:\Users\ertan\OneDrive\Masaüstü\UdemyCarBook\Presentation\UdemyCarBook.WebApi\obj\Debug\net8.0\UdemyCarBook.WebApi.genruntimeconfig.cache
 C:\Users\ertan\OneDrive\Masaüstü\UdemyCarBook\Presentation\UdemyCarBook.WebApi\obj\Debug\net8.0\ref\UdemyCarBook.WebApi.dll
+C:\Users\ertan\OneDrive\Masaüstü\UdemyCarBook\Presentation\UdemyCarBook.WebApi\bin\Debug\net8.0\UdemyCarBook.Application.dll
+C:\Users\ertan\OneDrive\Masaüstü\UdemyCarBook\Presentation\UdemyCarBook.WebApi\bin\Debug\net8.0\UdemyCarBook.Application.pdb
+C:\Users\ertan\OneDrive\Masaüstü\UdemyCarBook\Presentation\UdemyCarBook.WebApi\obj\Debug\net8.0\UdemyCarBook.WebApi.sourcelink.json

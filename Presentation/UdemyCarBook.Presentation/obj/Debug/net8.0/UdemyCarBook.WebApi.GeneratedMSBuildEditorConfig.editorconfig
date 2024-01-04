@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = UdemyCarBook.WebApi
-build_property.ProjectDir = C:\Users\ertan\OneDrive\Masaüstü\gitson\UdemyCarBook\Presentation\UdemyCarBook.Presentation\
+build_property.ProjectDir = C:\Users\ertan\OneDrive\Masaüstü\UdemyCarBook\Presentation\UdemyCarBook.Presentation\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
