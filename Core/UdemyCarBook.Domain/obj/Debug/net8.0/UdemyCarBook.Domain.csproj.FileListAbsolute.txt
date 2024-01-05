@@ -9,3 +9,4 @@ C:\Users\ertan\OneDrive\Masaüstü\UdemyCarBook\Core\UdemyCarBook.Domain\obj\Deb
 C:\Users\ertan\OneDrive\Masaüstü\UdemyCarBook\Core\UdemyCarBook.Domain\obj\Debug\net8.0\refint\UdemyCarBook.Domain.dll
 C:\Users\ertan\OneDrive\Masaüstü\UdemyCarBook\Core\UdemyCarBook.Domain\obj\Debug\net8.0\UdemyCarBook.Domain.pdb
 C:\Users\ertan\OneDrive\Masaüstü\UdemyCarBook\Core\UdemyCarBook.Domain\obj\Debug\net8.0\ref\UdemyCarBook.Domain.dll
+C:\Users\ertan\OneDrive\Masaüstü\UdemyCarBook\Core\UdemyCarBook.Domain\obj\Debug\net8.0\UdemyCarBook.Domain.sourcelink.json
